@@ -3,20 +3,17 @@ Este é um projeto de uma mini calculadora em JavaScript. Permite realizar opera
 
 
 Funcionalidades:
+
 Adição
-
 Subtração
-
 Multiplicação
-
-
 Divisão
+
+
 Tecnologias Utilizadas:
 
 HTML
-
 CSS
-
 JavaScript
 
 
@@ -28,5 +25,6 @@ Use os botões da calculadora para realizar operações matemáticas.
 
 
 Contribuindo: 
+
 Sinta-se à vontade para abrir issues para sugerir novas funcionalidades ou relatar bugs.
 Pull requests são bem-vindos!
