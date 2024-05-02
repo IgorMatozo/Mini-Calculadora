@@ -85,4 +85,4 @@ function divisao(a, b) {
 #### Demo:
 Você pode ver uma demonstração deste projeto [aqui](#).
 
-Esse é um projeto simples, mas pode ser um bom começo para o seu perfil do GitHub! Lembre-se de personalizá-lo e adicionar mais recursos conforme desejar.
+
