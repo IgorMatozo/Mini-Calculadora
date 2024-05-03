@@ -82,7 +82,6 @@ function divisao(a, b) {
 }
 ```
 
-#### Demo:
-Você pode ver uma demonstração deste projeto [aqui](#).
+
 
 
